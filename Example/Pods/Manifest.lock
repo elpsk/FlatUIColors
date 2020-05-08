@@ -1,0 +1,16 @@
+PODS:
+  - FlatUIColors (0.1.0)
+
+DEPENDENCIES:
+  - FlatUIColors (from `../`)
+
+EXTERNAL SOURCES:
+  FlatUIColors:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlatUIColors: 3dcfc41fb5e68c5d35b326505d000f35e3c33c9d
+
+PODFILE CHECKSUM: 1ffdb1111950432dd9a8d1158aa0f715876b40bb
+
+COCOAPODS: 1.8.3
