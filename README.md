@@ -5,9 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/FlatUIColors.svg?style=flat)](https://cocoapods.org/pods/FlatUIColors)
 [![Platform](https://img.shields.io/cocoapods/p/FlatUIColors.svg?style=flat)](https://cocoapods.org/pods/FlatUIColors)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+## Usage
 
 The Example project contains a simple showcase of all colors presents. Run the project and check it.
 
@@ -23,6 +21,11 @@ To use in your code, simply:
 ```
 self.view.backgroundColor = UIColor.flatAmethist
 ```
+
+You can import in your Podfile using:  
+
+`pod 'FlatUIColors', :git => 'https://github.com/elpsk/FlatUIColors.git'`
+
 
 ## Requirements
 - Xcode 10+
