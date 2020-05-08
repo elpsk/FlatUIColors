@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/FlatUIColors.svg?style=flat)](https://cocoapods.org/pods/FlatUIColors)
 [![Platform](https://img.shields.io/cocoapods/p/FlatUIColors.svg?style=flat)](https://cocoapods.org/pods/FlatUIColors)
 
-## Usage
+## Example
 
 The Example project contains a simple showcase of all colors presents. Run the project and check it.
 
@@ -16,11 +16,15 @@ The Example project contains a simple showcase of all colors presents. Run the p
 To use in your code, simply:  
 
 1. `import FlatUIColors`  
+You can import `FlatUIColors` in the `AppDelegate.swift` and forgot it. You can use in all of your classes.
+
 2. Use the color as normal color: `UIColor.flatAmethist`
 
 ```
 self.view.backgroundColor = UIColor.flatAmethist
 ```
+
+## Import
 
 You can import in your Podfile using:  
 

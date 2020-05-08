@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2456DCE117A45433848F843491491545 /* Pods-FlatUIColors_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A812BBB5174A67071A6AE409F57D62FF /* Pods-FlatUIColors_Tests-dummy.m */; };
+		2D00EB5124658778002C2596 /* UIColors+Flat.swift in Headers */ = {isa = PBXBuildFile; fileRef = 2D0254752465558000E77124 /* UIColors+Flat.swift */; };
 		2D0254762465558000E77124 /* UIColors+Flat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D0254752465558000E77124 /* UIColors+Flat.swift */; };
 		3B5DBCA20492303DB442FEE0B2B102C6 /* Pods-FlatUIColors_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 38F7CDF2B7F26242C12D8BEAFBEE0E2D /* Pods-FlatUIColors_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		468FEEAEDDCF90096DE727E3A94E14B0 /* Pods-FlatUIColors_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E7101B5C435DB31014A784A2B1163B75 /* Pods-FlatUIColors_Example-dummy.m */; };
@@ -253,6 +254,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB2C683B49EAB866669C142A550C4492 /* FlatUIColors-umbrella.h in Headers */,
+				2D00EB5124658778002C2596 /* UIColors+Flat.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
