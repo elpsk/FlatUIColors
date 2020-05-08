@@ -19,10 +19,16 @@ To use in your code, simply:
 You can import `FlatUIColors` in the `AppDelegate.swift` and forgot it. You can use in all of your classes.
 
 2. Use the color as normal color: `UIColor.flatAmethist`
-
 ```
 self.view.backgroundColor = UIColor.flatAmethist
 ```
+
+![](ss-1.png)
+
+3. Use as **XCode** color palette:  
+
+![](ss-2.png)
+
 
 ## Import
 

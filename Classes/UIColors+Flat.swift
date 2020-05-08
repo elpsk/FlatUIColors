@@ -42,36 +42,36 @@ public extension UIColor {
         return String(format:"#%06x", rgb)
     }
 
-    static var flatAbsestor     = UIColor(hex: "#7f8c8d")!
-    static var flatAlizarin     = UIColor(hex: "#e74c3c")!
-    static var flatAmethist     = UIColor(hex: "#9b59b6")!
-    static var flatBelizeHole   = UIColor(hex: "#2980b9")!
-    static var flatBlueHorizon  = UIColor(hex: "#4b6584")!
-    static var flatCarrot       = UIColor(hex: "#e67e22")!
-    static var flatClouds       = UIColor(hex: "#ecf0f1")!
-    static var flatConcrete     = UIColor(hex: "#95a5a6")!
-    static var flatEmerald      = UIColor(hex: "#2ecc71")!
-    static var flatFieryFuchsia = UIColor(hex: "#B33771")!
-    static var flatFusionRed    = UIColor(hex: "#ff5252")!
-    static var flatGreenSea     = UIColor(hex: "#16a085")!
-    static var flatGreenland    = UIColor(hex: "#22a6b3")!
-    static var flatHoneyGlow    = UIColor(hex: "#EAB543")!
-    static var flatLotusPink    = UIColor(hex: "#f368e0")!
-    static var flatMidnightBlue = UIColor(hex: "#2c3e50")!
-    static var flatNephritis    = UIColor(hex: "#27ae60")!
-    static var flatOrange       = UIColor(hex: "#f39c12")!
-    static var flatPeterRiver   = UIColor(hex: "#3498db")!
-    static var flatPineGlade    = UIColor(hex: "#BDC581")!
-    static var flatPomegranate  = UIColor(hex: "#c0392b")!
-    static var flatPumkins      = UIColor(hex: "#d35400")!
-    static var flatPureApple    = UIColor(hex: "#6ab04c")!
-    static var flatReptileGreen = UIColor(hex: "#26de81")!
-    static var flatRoyalBlue    = UIColor(hex: "#3867d6")!
-    static var flatSilver       = UIColor(hex: "#bdc3c7")!
-    static var flatSoaringEagle = UIColor(hex: "#95afc0")!
-    static var flatSunFlower    = UIColor(hex: "#f1c40f")!
-    static var flatTurquoise    = UIColor(hex: "#1abc9c")!
-    static var flatWetAsphalt   = UIColor(hex: "#34495e")!
-    static var flatWishteria    = UIColor(hex: "#8e44ad")!
-
+    static var flatAbsestor     = UIColor(named: "FlatAbsestor")!
+    static var flatAlizarin     = UIColor(named: "FlatAlizarin")!
+    static var flatAmethist     = UIColor(named: "FlatAmethist")!
+    static var flatBelizeHole   = UIColor(named: "FlatBelizeHole")!
+    static var flatBlueHorizon  = UIColor(named: "FlatBlueHorizon")!
+    static var flatCarrot       = UIColor(named: "FlatCarrot")!
+    static var flatClouds       = UIColor(named: "FlatClouds")!
+    static var flatConcrete     = UIColor(named: "FlatConcrete")!
+    static var flatEmerald      = UIColor(named: "FlatEmerald")!
+    static var flatFieryFuchsia = UIColor(named: "FlatFieryFuchsia")!
+    static var flatFusionRed    = UIColor(named: "FlatFusionRed")!
+    static var flatGreenSea     = UIColor(named: "FlatGreenSea")!
+    static var flatGreenland    = UIColor(named: "FlatGreenland")!
+    static var flatHoneyGlow    = UIColor(named: "FlatHoneyGlow")!
+    static var flatLotusPink    = UIColor(named: "FlatLotusPink")!
+    static var flatMidnightBlue = UIColor(named: "FlatMidnightBlue")!
+    static var flatNephritis    = UIColor(named: "FlatNephritis")!
+    static var flatOrange       = UIColor(named: "FlatOrange")!
+    static var flatPeterRiver   = UIColor(named: "FlatPeterRiver")!
+    static var flatPineGlade    = UIColor(named: "FlatPineGlade")!
+    static var flatPomegranate  = UIColor(named: "FlatPomegranate")!
+    static var flatPumkins      = UIColor(named: "FlatPumkins")!
+    static var flatPureApple    = UIColor(named: "FlatPureApple")!
+    static var flatReptileGreen = UIColor(named: "FlatReptileGreen")!
+    static var flatRoyalBlue    = UIColor(named: "FlatRoyalBlue")!
+    static var flatSilver       = UIColor(named: "FlatSilver")!
+    static var flatSoaringEagle = UIColor(named: "FlatSoaringEagle")!
+    static var flatSunFlower    = UIColor(named: "FlatSunFlower")!
+    static var flatTurquoise    = UIColor(named: "FlatTurquoise")!
+    static var flatWetAsphalt   = UIColor(named: "FlatWetAsphalt")!
+    static var flatWishteria    = UIColor(named: "FlatWishteria")!
+    
 }

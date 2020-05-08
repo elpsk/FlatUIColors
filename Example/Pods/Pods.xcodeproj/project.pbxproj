@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2456DCE117A45433848F843491491545 /* Pods-FlatUIColors_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A812BBB5174A67071A6AE409F57D62FF /* Pods-FlatUIColors_Tests-dummy.m */; };
 		2D00EB5124658778002C2596 /* UIColors+Flat.swift in Headers */ = {isa = PBXBuildFile; fileRef = 2D0254752465558000E77124 /* UIColors+Flat.swift */; };
+		2D00EB5324658C1F002C2596 /* FlatColorsPalette.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D00EB5224658C1F002C2596 /* FlatColorsPalette.xcassets */; };
 		2D0254762465558000E77124 /* UIColors+Flat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D0254752465558000E77124 /* UIColors+Flat.swift */; };
 		3B5DBCA20492303DB442FEE0B2B102C6 /* Pods-FlatUIColors_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 38F7CDF2B7F26242C12D8BEAFBEE0E2D /* Pods-FlatUIColors_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		468FEEAEDDCF90096DE727E3A94E14B0 /* Pods-FlatUIColors_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E7101B5C435DB31014A784A2B1163B75 /* Pods-FlatUIColors_Example-dummy.m */; };
@@ -42,6 +43,7 @@
 		12DB06110A313F0F8B9FFCC70A8A6D95 /* Pods-FlatUIColors_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlatUIColors_Example.release.xcconfig"; sourceTree = "<group>"; };
 		219A0D926938FEC33264DFED1B3BB546 /* Pods-FlatUIColors_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FlatUIColors_Tests.modulemap"; sourceTree = "<group>"; };
 		26DFDB53A7D481AF6CC6CDE726CFACA2 /* Pods-FlatUIColors_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlatUIColors_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		2D00EB5224658C1F002C2596 /* FlatColorsPalette.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = FlatColorsPalette.xcassets; sourceTree = "<group>"; };
 		2D0254752465558000E77124 /* UIColors+Flat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColors+Flat.swift"; sourceTree = "<group>"; };
 		2F081B21DD2BC87812501C06E134B574 /* Pods-FlatUIColors_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FlatUIColors_Example-umbrella.h"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -151,6 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				2D0254752465558000E77124 /* UIColors+Flat.swift */,
+				2D00EB5224658C1F002C2596 /* FlatColorsPalette.xcassets */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -358,6 +361,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D00EB5324658C1F002C2596 /* FlatColorsPalette.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
